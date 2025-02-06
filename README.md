@@ -1,9 +1,3 @@
-# NLP Club
-
-A reading group to discuss Natural Language Processing related papers.
-
-Meetings are in person, in Budapest, Hungary.
-
 ## 17 February 2025: Language modeling in latent spaces
 
 Monday, 17 February 2025, 16:30 ELTE Lágymányos Campus, Northern Building (Pázmány
