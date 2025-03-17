@@ -3,6 +3,8 @@
 Monday, 31 March 2025, 16:30 ELTE Lágymányos Campus, Northern Building (Pázmány
 Péter sétány 1/A), room 7.88.
 
+Please indicate your planned attendance using [this form](https://forms.office.com/e/VkigdeF09F).
+
 ### Papers
 
 Snell, Charlie, et al. "Scaling LLM test-time compute optimally can be more effective than scaling model parameters." arXiv preprint arXiv:2408.03314 (2024). [https://arxiv.org/pdf/2408.03314](https://arxiv.org/pdf/2408.03314)
